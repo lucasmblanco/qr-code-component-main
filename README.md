@@ -20,8 +20,8 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/lucasmblanco/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://lmb-frontendmentor-qr.netlify.app)
+- Solution URL: [Repository](https://github.com/lucasmblanco/qr-code-component-main)
+- Live Site URL: [Hosted on Netlify](https://lmb-frontendmentor-qr.netlify.app)
 ### Built with
 
 - Semantic HTML5 markup
